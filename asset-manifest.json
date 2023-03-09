@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sales-Audit/static/css/main.f44ade14.css",
+    "main.js": "/Sales-Audit/static/js/main.1dd74a8a.js",
+    "static/js/787.6f851977.chunk.js": "/Sales-Audit/static/js/787.6f851977.chunk.js",
+    "index.html": "/Sales-Audit/index.html",
+    "main.f44ade14.css.map": "/Sales-Audit/static/css/main.f44ade14.css.map",
+    "main.1dd74a8a.js.map": "/Sales-Audit/static/js/main.1dd74a8a.js.map",
+    "787.6f851977.chunk.js.map": "/Sales-Audit/static/js/787.6f851977.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f44ade14.css",
+    "static/js/main.1dd74a8a.js"
+  ]
+}
